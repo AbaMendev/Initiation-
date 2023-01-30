@@ -1,0 +1,49 @@
+---------------------PHP-------------------------
+SUPPORT :
+https://formation.webdevpro.net/php-initiation/
+login : php / initiation
+
+
+Tout les gros sites internet /Réseaux sociaux (ex: facebook...)=> cest du PHP
+L'objetif de PHP est que les gens utilise correctement les formulaires.
+
+Pour l'utilisation de PHP la position du dossier dans l'ordinateur est importante : 
+=> Obligatoirement le créer dans :  Windows (C:) – xampp – htdocs -
+!=> si créer ailleurs le php ne fonctionnera pas
+
+
+Qu'est ce que PHP? 
+    Php = Hypertext Preprocessor : c'est un langage de scripts généraliste et Open Source, spécialement conçu pour le développement d'applications web dynamiques. Il peut être intégré facilement au HTML.
+
+Les sites internet modernes sont généralement utilisés sur deux machines/serveurs/ordinateur qui vont intéragirent ensemble pour le fonctionnement optimal du site.
+
+Le navigateur ne comprend que 3 langages :
+    > HTML
+    > CSS
+    > JAVASCRIPT
+
+Lors de la création d'une site internet nous avons deux ordinateur
+
+        PC                                      serveurs
+     (client)                                 (traite la demande)
+                                          (en attente des requêtes)
+
+Pour info:
+
+Langage client => soit CSS soit JAVASCRIPT
+            ------CSS------                             ------JAVASCRIPT------
+                 SASS                                            jQuery
+              bootstrap
+
+Langage serveur => ------PHP------    ------SQL------   
+
+Pour pouvoir utiliser PHP il nous faut obligatoirement un serveur, que l'on appel serveur Apache (= un service qui nous permet d'écouter les requête HTTP et qui passe la main à PHP).
+PHP est un module de Apache
+Semaine passé nous avons installé un lagiciel XAMPP 
+X
+A
+M
+P
+P
+
+
